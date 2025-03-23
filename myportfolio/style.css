@@ -1,0 +1,89 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f9f9f9;
+    color: #333;
+}
+
+header {
+    background: #ff66b2;
+    padding: 20px;
+    color: white;
+}
+
+h1 {
+    margin: 0;
+}
+
+section {
+    padding: 20px;
+}
+
+a {
+    color: #ff66b2;
+    text-decoration: none;
+    font-weight: bold;
+}
+/* Reset default styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    background-color: #ffe6f2; /* Light pink background */
+    color: #333;
+    text-align: center;
+    padding: 20px;
+}
+
+/* Header Section */
+header {
+    background: #ff66b2; /* Bright pink */
+    color: white;
+    padding: 30px;
+    border-radius: 10px;
+}
+
+h1 {
+    font-size: 2.5rem;
+}
+
+/* Section Styling */
+section {
+    background: white;
+    margin: 20px auto;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 80%;
+}
+
+/* Links */
+a {
+    color: #ff66b2;
+    text-decoration: none;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: #ff3385;
+}
+#hireMe {
+    background-color: #ff69b4;  /* Your fav pink color 💖 */
+    color: white;
+    padding: 10px 20px;
+    font-size: 18px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background 0.3s ease;
+}
+
+#hireMe:hover {
+    background-color: #ff1493; /* Darker pink */
+}
